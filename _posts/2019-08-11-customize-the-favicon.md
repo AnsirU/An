@@ -1,7 +1,7 @@
 ---
-title: Customize the Favicon
-author: cotes
-date: 2019-08-11 00:34:00 +0800
+title: Hello world!
+author: Zhian Hu
+date: 2024-04-07 00:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]
 ---
