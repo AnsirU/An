@@ -8,9 +8,10 @@ tags: [favicon]
 
 ## Introduction
 
-This an experimental page for my personal website! Please wait for my update of my inspiration!
+This is an experimental page for my personal website! Please wait for my update of my inspiration!
 
-Below are the examples of the orginal page design.
+Below are the examples of the orginal page design.  
+
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
 
 ## Generate the favicon
